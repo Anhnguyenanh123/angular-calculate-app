@@ -7,6 +7,10 @@ table {
   text-align: right;
 }
 
+.center {
+  text-align: center;
+}
+
 table thead {
   font-size: 0.7rem;
   color: #83e6c0;
